@@ -1,0 +1,31 @@
+Customer Features
+    Login and Logout
+    View Profile
+    Update Profile
+    Book a flight
+    Cancel A flight
+    Claim your point
+    View All flight schedule
+
+Admin features
+    Login and logout
+    View All customers
+    View All booked flight
+    View and resolve complains
+    Set flight point
+    Add flight
+    Update flight and schedules
+
+Flight
+    destination and arrival
+    Date of departure
+    Time departure
+    Flight number
+    Fight type
+    flight duration
+    price
+    seat type
+    lugguages(kg)
+    is Staff
+    customer id
+
